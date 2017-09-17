@@ -6,3 +6,6 @@ myvenv
 
 #pyc
 *.pyc
+
+#vscode setting
+.vscode
